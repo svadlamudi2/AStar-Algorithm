@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AStar:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38501a6e-9f0d-4912-9e8b-dc6403368ec6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cHGfLGNuK2e1aJcbuoc5ujUTM1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AStar" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38501a6e-9f0d-4912-9e8b-dc6403368ec6" name="Default Changelist" comment="" />
+      <created>1590178207619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590178207619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1590962362650">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1590961876936" />
+    <state x="653" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1002@0.23.1680.1002" timestamp="1590962362650" />
+    <state x="577" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592088971678">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="577" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592088971678" />
+    <state width="1638" height="180" key="GridCell.Tab.0.bottom" timestamp="1592253969081">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="180" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592253969081" />
+    <state width="1638" height="180" key="GridCell.Tab.0.bottom/0.23.1680.1002@0.23.1680.1002" timestamp="1592249951436" />
+    <state width="1638" height="180" key="GridCell.Tab.0.center" timestamp="1592253969080">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="180" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592253969080" />
+    <state width="1638" height="180" key="GridCell.Tab.0.center/0.23.1680.1002@0.23.1680.1002" timestamp="1592249951435" />
+    <state width="1638" height="180" key="GridCell.Tab.0.left" timestamp="1592253969078">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="180" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592253969078" />
+    <state width="1638" height="180" key="GridCell.Tab.0.left/0.23.1680.1002@0.23.1680.1002" timestamp="1592249951435" />
+    <state width="1638" height="180" key="GridCell.Tab.0.right" timestamp="1592253969080">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="180" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592253969080" />
+    <state width="1638" height="180" key="GridCell.Tab.0.right/0.23.1680.1002@0.23.1680.1002" timestamp="1592249951436" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom" timestamp="1590892370595">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590892370595" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center" timestamp="1590892370594">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590892370594" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left" timestamp="1590892370593">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590892370593" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right" timestamp="1590892370594">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590892370594" />
+    <state x="328" y="106" key="SettingsEditor" timestamp="1592252133051">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1592252133051" />
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1592245400573">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592245400573" />
+    <state x="505" y="201" width="670" height="646" key="search.everywhere.popup" timestamp="1590962137857">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590371782625" />
+    <state x="505" y="201" width="670" height="646" key="search.everywhere.popup/0.23.1680.1002@0.23.1680.1002" timestamp="1590962137857" />
+  </component>
+</project>
