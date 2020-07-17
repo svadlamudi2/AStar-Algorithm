@@ -29,7 +29,7 @@ public class GUI extends JFrame implements ActionListener {
         panel2.setBackground(Color.gray);
         this.add(panel2, BorderLayout.PAGE_END);
 
-        astar = new Astar(size,2 , 2, this);
+        astar = new Astar(size, this);
 
         addStart.addActionListener(e -> {
             panel2.add(addTarget);

@@ -14,7 +14,7 @@ public class Astar {
     Node[][] backArray;
     MergeSort mergeSort = new MergeSort();
 
-    public Astar(int size, int targetRow, int targetCol, GUI gui) {
+    public Astar(int size, GUI gui) {
         array = new String[size][size];
         backArray = new Node[size][size];
         for(int i = 0; i < size; i++) {
